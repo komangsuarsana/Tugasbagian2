@@ -1,5 +1,5 @@
 # Tugasbagian2
-# 1 State Awal  
+# State Awal  
 <img src="State awal.png"><br>
 Ukuran state space sesuai instruksi adalah 81.
 
